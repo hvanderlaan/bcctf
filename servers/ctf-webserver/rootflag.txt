@@ -1,1 +1,1 @@
-{bc-ctf}:6d89e8c315cb4d6e9f7e23b462b8e1e9
+FLAG{BCCTF:7ac381e46ffbd21e9e965157ad89bf6a8abd40c2}
