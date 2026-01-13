@@ -13,8 +13,9 @@
 .listing
 .listings
 .mysql_history
-wp-admin
 .passwd
+.password
+.passwords
 .perf
 .profile
 .rhosts
@@ -70,6 +71,8 @@ _notes
 _old
 _overlay
 _pages
+_password
+_passwords
 _private
 _reports
 _res
@@ -182,6 +185,18 @@ _www
 2012
 2013
 2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
 21
 22
 2257
@@ -1626,6 +1641,7 @@ fixed
 fk
 fla
 flag
+flag.txt
 flags
 flash
 flash-intro
@@ -2206,8 +2222,10 @@ keep
 kept
 kernel
 key
+key.pub
 keygen
 keys
+keys.pub
 keyword
 keywords
 kids
@@ -4205,6 +4223,7 @@ updates-topic
 upgrade
 upgrade.readme
 upload
+upload.php
 upload_file
 upload_files
 uploaded
@@ -4214,6 +4233,7 @@ uploader
 uploadfile
 uploadfiles
 uploads
+uploads.php
 ur-admin
 urchin
 url
